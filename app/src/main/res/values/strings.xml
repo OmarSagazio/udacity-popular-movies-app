@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+
+    <!-- Menu -->
+    <string name="menu_sort_by_popularity">Sort by Popularity</string>
+    <string name="menu_sort_by_highest_rated">Sort by Highest Rated</string>
+    <string name="title_movie_detail">Movie Detail</string>
+</resources>
